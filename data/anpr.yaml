@@ -1,0 +1,6 @@
+train: ../output_dataset(1)/output_dataset/train/images
+val: ../output_dataset(1)/output_dataset/test/images
+
+nc: 1
+names: ['licence']
+

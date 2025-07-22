@@ -1,0 +1,5 @@
+yolov5_env/
+__pycache__/
+*.pyc
+*.log
+models/
